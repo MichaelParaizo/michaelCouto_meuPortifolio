@@ -207,7 +207,7 @@ footer img{
  }
 
  .contatos{
-    background: linear-gradient(#44475a,white,#bd93f9);
+    background: #fffafa;
     padding: 0 4px 0 4px;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -221,7 +221,7 @@ footer img{
 
  .contato{
 	 max-width: 27px;
-	padding-top: 6px;		
+	padding-top: 5px;		
  }
 
  
